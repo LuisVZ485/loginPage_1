@@ -12,12 +12,12 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #060c21;
+    background: #2F314A;
 }
 .form
 {
     position: relative;
-    background: #060c21;
+    background:  #2F314A/*#060c21*/;
     border: 1px solid #000;
     width: 350px;
     padding: 40px 40px 60px;
